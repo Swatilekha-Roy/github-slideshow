@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"When the going gets tough, the tough gets going!"
 Use the left arrow to go back!
